@@ -1,0 +1,2 @@
+# ADR-0001 — Public local-first experimental boundary
+Decision: put only original MiniBoard seed and future reviewed MiniBoard code in this public Git repository. Do not mirror private LoopStar engine, signed-in Edge, WCC, RDR2 copyrighted content, secrets, terminal logs or owner data. Use native Node to keep installation light. Accepted development cycles are measured by independent ChatGPT/LoopStar receipts and Git commits, not the number of steps.
